@@ -1,8 +1,7 @@
 # Fontoraw  
 **Font to raw**  
   
-**Fontoraw** began its life as a tool to batch edit characters on 8 bit computer fonts but it can be used for any kind of bitmap to bytes conversion.  
-You save a `.png` font dump, edit it on a graphic program and use **Fontoraw** to generate an output file to read back or paste on the target computer.  
+**Fontoraw** began its life as a tool to batch edit characters on 8 bit computer fonts but it can be used for any kind of bitmap to bytes conversion. You save a `.png` font dump, edit it on a graphic program and use **Fontoraw** to generate an output file to read back or paste on the target computer. **Fontoraw** scans the image from top left to bottom right accordng to the parameters given.    
 You can format the output file on a variety of ways to better suit your needs.  
   
 >**Fontoraw** needs the [Pillow library](https://pillow.readthedocs.io/en/stable/).  
