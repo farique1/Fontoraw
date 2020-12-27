@@ -6,7 +6,7 @@ You save a `.png` font dump, edit it on a graphic program and use **Fontoraw** t
 You can format the output file on a variety of ways to better suit your needs.  
   
 **Input example:**  
-![# Example PNG](Example.png)  
+<img src="Example.png" alt="Example PNG" width="400">  
   
 **Some output examples:**  
   
