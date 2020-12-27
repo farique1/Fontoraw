@@ -5,6 +5,8 @@
 You save a `.png` font dump, edit it on a graphic program and use **Fontoraw** to generate an output file to read back or paste on the target computer.  
 You can format the output file on a variety of ways to better suit your needs.  
   
+>**Fontoraw** needs the [Pillow library](https://pillow.readthedocs.io/en/stable/).  
+
 **Input example:**  
 <img src="Example.png" alt="Example PNG" width="400">  
   
